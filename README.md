@@ -1,1 +1,2 @@
-# the-trash-cube-1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
